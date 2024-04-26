@@ -1,0 +1,16 @@
+ **DATA SET CHARACTERISTICS**
+ 
+     :NUMBER OF INSTANCES: 150(50 IN EACH CLASSES)
+     :NUMBER OF ATTRIBUTES: 4 NUMERIC,PREDICTIVE ATTRIBUTES AND THE CLASS
+     :ATTRIBUTE INFORMATION:
+             -sepal length in cm
+             -petal width in cm
+             -petal length in cm
+             -petal width in cm
+             -class:
+                    -Iris-setosa
+                    -Iris-Versicolour
+                    -Iris-virginica
+                    
+                    
+                    
